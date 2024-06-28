@@ -47,8 +47,6 @@ Visualize sample images and their corresponding labels to understand the dataset
 
 #### Libraries: Pandas, Numpy, Matplotlib, Sklearn, seaborn, TensorFlow, and Keras.
 
-#### Processes: Exploratory Data Analysis (EDA), one hot encoding, Scaling, Machine Learning, Convolutional Neural Network (CNN)
-
 ## Model Evaluation and Result
 
 A Convolutional Neural Network was used to classify images into 10 categories. The data below shows the classification report from the model.
